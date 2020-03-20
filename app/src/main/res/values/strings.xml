@@ -9,4 +9,6 @@
     <string name="reg_telephone">Telephone</string>
     <string name="reg_password">Password</string>
     <string name="reg_Rpassword">Re-type Password</string>
+    <string name="register_btn">REGISTER</string>
+    <string name="cancel_btn">CANCEL</string>
 </resources>
